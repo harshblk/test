@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@azure/event-hubs": "^2.0.0",
     "@azure/event-processor-host": "^1.0.6",
     "mssql": "^5.1.0"
   }
 }
+

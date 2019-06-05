@@ -1,5 +1,5 @@
 const http = require('http');
-const {EventProcessorHost, delay} = require("azure-event-processor-host");
+const {EventProcessorHost, delay} = require("@azure/event-processor-host");
 var sql = require('mssql');
 
 var config = {
